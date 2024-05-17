@@ -43,13 +43,6 @@ _Bachelor’s, John Molson School of Business, Sept 2015 - 2018_
 ## 🚀 Projects
 
 ### **Bitcoin Sentiment Analysis**
-_Brainstation, May - September 2023_
-- Analyzed Bitcoin sentiment using Twitter data and historical pricing, applying NLP and ML techniques.
-- Discovered correlations between sentiment shifts and market trends.
-
-## 🚀 Projects
-
-### **Bitcoin Sentiment Analysis**
 - Analyzed Bitcoin sentiment using Twitter data and historical pricing, applying NLP and ML techniques.
 - Discovered correlations between sentiment shifts and market trends.
 
