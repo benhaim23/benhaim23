@@ -7,6 +7,13 @@ Experienced Data Scientist with a strong background in financial markets and cry
 
 ## 📊 Experience
 
+
+### **WEB3 Operations Associate | [3iQ](#)**
+August 2024 - Present, Montreal, QC_
+- Bringing Tradfi to WEB3 through tokenization of real world assets
+- Developing frameworks for lending strategies
+- Publishing research reports on the RWA sector
+
 ### **Personal Fund Manager | [GMB Capital](#)**
 _November 2017 - Present, Montreal, QC_
 - Executed intra-exchange arbitrage strategies, achieving a 750,000% return measured in bitcoin.
