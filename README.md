@@ -16,7 +16,7 @@ August 2024 - Present, Montreal, QC_
 
 ### **Personal Fund Manager | [GMB Capital](#)**
 _November 2017 - Present, Montreal, QC_
-- Executed intra-exchange arbitrage strategies, achieving a 750,000% return measured in bitcoin.
+- Executed intra-exchange arbitrage strategies, achieving an ROI of 150 bitcoin.
 - Developed hedging strategies to optimize returns, leveraging altcoin futures and staking.
 - Published research reports on macroeconomic trends and cryptocurrency markets.
 
