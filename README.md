@@ -3,7 +3,7 @@
 📍 **Montreal, QC, Canada** | 📧 [Email](mailto:markbenhaim0@gmail.com or mbenhaim@umich.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/mark-benhaim) | 📁 [GitHub](https://github.com/benhaim23)
 
 ## 💼 Professional Summary
-Experienced Data Scientist with a strong background in financial markets and cryptocurrency. Proven track record of delivering high-impact data analysis and predictive models, leveraging extensive technical skills in Python, SQL, and machine learning. Passionate about utilizing data to drive successful business outcomes and informed decision-making.
+Experienced Analyst with a strong background in financial markets and cryptocurrency. Proven track record of delivering high-impact data analysis and predictive models, leveraging extensive technical skills in Python, SQL, and machine learning. Passionate about utilizing data to drive successful business outcomes and informed decision-making.
 
 ## 📊 Experience
 
