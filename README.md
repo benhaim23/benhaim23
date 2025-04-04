@@ -44,8 +44,8 @@ All of my reports, data projects, and tools are live across my repos. Here's a c
 ---
 
 ## 📚 Education  
-🎓 **University of Michigan** – M.S. Applied Data Science
-🎓 **University of Nicosia** – M.S. Blockchain & Digital Currency  
+🎓 **University of Michigan** – M.S. Applied Data Science   
+🎓 **University of Nicosia** – M.S. Blockchain & Digital Currency    
 🎓 **Concordia University (John Molson School of Business)** – BComm, Marketing & Finance  
 _Ernst & Young Scholar • Beta Gamma Sigma • Dean’s Honour List_
 
