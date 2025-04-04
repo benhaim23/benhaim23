@@ -1,77 +1,75 @@
-# Mark Benhaim
-
-📍 **Montreal, QC, Canada** | 📧 [Email](mailto:markbenhaim0@gmail.com or mbenhaim@umich.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/mark-benhaim) | 📁 [GitHub](https://github.com/benhaim23)
-
-## 💼 Professional Summary
-Experienced Analyst with a strong background in financial markets and cryptocurrency. Proven track record of delivering high-impact data analysis and predictive models, leveraging extensive technical skills in Python, SQL, and machine learning. Passionate about utilizing data to drive successful business outcomes and informed decision-making.
-
-## 📊 Experience
-
-
-### **WEB3 Operations Associate | [3iQ](#)**
-August 2024 - Present, Montreal, QC_
-- Bringing Tradfi to WEB3 through tokenization of real world assets
-- Developing frameworks for lending strategies
-- Publishing research reports on the RWA sector
-
-### **Personal Fund Manager | [GMB Capital](#)**
-_November 2017 - Present, Montreal, QC_
-- Executed intra-exchange arbitrage strategies, achieving an ROI of 150 bitcoin.
-- Developed hedging strategies to optimize returns, leveraging altcoin futures and staking.
-- Published research reports on macroeconomic trends and cryptocurrency markets.
-
-### **Founding Member & Head of Operations | [Toshiverse L4bs](#)**
-_July 2021 - 2022, Montreal, QC_
-- Established an NFT studio, generating $4M USD in sales revenue in the first year.
-- Led a diverse team of 20, overseeing smart contract development, marketing, and community building.
-
-## 🎓 Education
-
-### **University of Michigan**
-_Master’s in Applied Data Science, Sept 2023 - Present_
-- GPA: 3.8
-
-### **University of Nicosia**
-_Masters in Blockchain and Digital Currency, Feb 2018 - 2019_
-
-### **Concordia University**
-_Bachelor’s, John Molson School of Business, Sept 2015 - 2018_
-- Honors: Ernst and Young Academic Scholarship, Beta Gamma Sigma, Dean’s Honor List, Golden Key International Honour Society
-
-## 🛠 Skills
-
-- **Data Science**: Machine Learning, NLP, Hypothesis Testing, A/B Testing
-- **Visualization**: Tableau, Matplotlib, Plotly, Bokeh, Seaborn
-- **Programming**: Python, R, SQL
-- **Blockchain**: Metamask, Dune Analytics
-- **Development Tools**: GitHub, Docker, Jupyter, Anaconda, Dash
-- **Big Data**: AWS, Hadoop, Spark, Hive
-
-## 🚀 Projects
-
-### **Bitcoin Sentiment Analysis**
-- Analyzed Bitcoin sentiment using Twitter data and historical pricing, applying NLP and ML techniques.
-- Discovered correlations between sentiment shifts and market trends.
-
-### **Industry Project**
-- Won the industry project for a Microsoft Hackathon ( a 24 hour collaborative tech sprint) to develop a digital solution that safeguards individuals' data rights across multiple different data leveraging platforms
-- Developed a detailed report exploring into industry-specific data challenges in the cybersecurity industry, using a dataset on a collection of data breaches.
-- Employed advanced data analysis and machine learning techniques to derive actionable insights.
-
-### **Big Data Wrangling with Google Books Ngrams**
-- Utilized Google Books Ngrams data to perform extensive data wrangling and analysis, demonstrating the power of big data tools such as Apache Spark and Hadoop in uncovering linguistic and cultural trends.
-
-### **BTC LSTM Prediction Model**
-- Developed a predictive model using Long Short-Term Memory (LSTM) networks to forecast Bitcoin prices, incorporating time series analysis and deep learning techniques.
-
-### **Crypto DEX Data Analysis Report**
-- Conducted a comprehensive analysis of cryptocurrency decentralized exchanges (DEX), producing insights into trading patterns, liquidity, and market dynamics.
-
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/mark-benhaim)
-- [GitHub](https://github.com/benhaim23)
+# 👋 GM, I'm Mark Benhaim  
+📍 Montreal, QC | 📧 [markbenhaim0@gmail.com](mailto:markbenhaim0@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/mark-benhaim) | 💻 [GitHub](https://github.com/benhaim23) | 🖥️ [Portfolio](https://markbenhaim.netlify.app/)
 
 ---
 
-Feel free to connect with me to discuss data science, cryptocurrency, or potential collaborations!
+## 🧠 About Me  
+I'm a crypto-native researcher, builder, and data analyst passionate about telling the story behind the numbers. Whether it's tokenizing real-world assets, forecasting Bitcoin with neural networks, or helping institutions enter DeFi—I love turning on-chain complexity into clarity.
+
+I currently lead strategy and research at **3iQ**, where I work on everything from lending frameworks and RWA tokenization to deep-dive research across DeFi, staking, and Web3 infrastructure. Before that, I co-founded an NFT studio that drove over $4M in revenue in its first year.
+
+I thrive where data meets narrative, and I bring that energy to every project, product, and partnership I’m a part of.
+
+---
+
+## 📂 Featured Work  
+All of my reports, data projects, and tools are live across my repos. Here's a curated set of highlights:
+
+### 🔍 **Research & Strategic Reports**
+- 📄 [**3iQ Web3 Tokenization Market Research Report**](https://github.com/benhaim23/crypto_reports/blob/main/3iQ%20Web3%20Tokenization%20Market%20Research%20Report.cleaned.pdf)  
+  In-depth research on the landscape of tokenized T-Bills, equities, and the rise of RWAs.
+- 📄 [**Coincheck Wallet Solution**](https://github.com/benhaim23/crypto_reports/blob/main/Coincheck%20Wallet%20Solution.pdf)  
+  A go-to-market proposal for launching USDC smart wallets under Japan’s stablecoin regulation.
+- 📄 [**Akash Network Diligence Report**](https://github.com/benhaim23/crypto_reports/blob/main/Akash%20Network%20Diligence%20Report.pdf)  
+  Product, tokenomics, and strategy review for decentralized compute infrastructure conducted for Binance.
+- 📄 [**DeFi Savings Rate Analysis**](https://github.com/benhaim23/crypto_reports/blob/main/DeFi%20Savings%20Rate%20Report_.pdf)  
+  Comparative research on sFRAX, sDAI, sUSDe and the evolution of DeFi yield markets.
+- 📄 [**RWA Lending Landscape Report**](https://github.com/benhaim23/crypto_reports/blob/main/Real%20World%20Asset%20(RWA)%20Lending%20Landscape%20Report.pdf)  
+  Breakdown of key lending platforms like Centrifuge, Maple, and Goldfinch.
+- 📄 [**Funding Rate Basis Trade Explainer**](https://github.com/benhaim23/crypto_reports/blob/main/The_Funding_Rate_Basis_Trade_The_Arbitrage_Strategy_Redefining_Crypto_Investing%20(1).pdf)  
+  A deep dive into funding rate arbitrage, narrative-driven alpha, and trading strategy design.
+
+---
+
+### 📊 **Data & Analytics Projects**
+- 📈 [**Crypto VC Investment to FDV Ratio Analysis**](https://github.com/benhaim23/Crypto_VC_Investment_to_FDV_Ratio_Analysis)  
+  An investigation into venture capital impact on token valuations, featuring visual dashboards and Dune queries.
+- 📈 [**BTC-LSTM Prediction Model**](https://github.com/benhaim23/BTC-LSTM-Prediction-Model)  
+  Time series forecasting using LSTM neural networks on historical Bitcoin data.
+- 📈 [**Bitcoin Sentiment NLP Tool**](https://github.com/benhaim23/Capstone-Project)  
+  NLP model analyzing Twitter sentiment to predict Bitcoin price movements.
+- 📈 [**DEX Data Analysis Report Across Chains**](https://github.com/benhaim23/Crypto-DEX-Data-Analysis-Report)  
+  Dashboard + analysis of trading patterns on Ethereum, Solana, BSC, Polygon, Arbitrum, and Optimism.
+
+---
+
+## 📚 Education  
+🎓 **University of Michigan** – M.S. Applied Data Science (in progress)  
+🎓 **University of Nicosia** – M.S. Blockchain & Digital Currency  
+🎓 **Concordia University (John Molson School of Business)** – BComm, Marketing & Finance  
+_Ernst & Young Scholar • Beta Gamma Sigma • Dean’s Honour List_
+
+---
+
+## 🛠 Skills & Tools  
+**Languages:** Python, SQL, R  
+**Analysis & Modeling:** Machine Learning, NLP, Time Series, A/B Testing  
+**Blockchain:** Dune Analytics, Token Terminal, MetaMask  
+**Visualization:** Tableau, Plotly, Seaborn, Matplotlib  
+**Stack:** GitHub, Jupyter, Docker, Spark, Hadoop, AWS, Dash  
+**Other:** Tokenomics • Research Writing • Product Strategy • Web3 Go-to-Market
+
+---
+
+## 🔭 Currently Exploring  
+- zkML and privacy-preserving analytics  
+- Ecosystem dynamics in DePIN, decentralized compute, and tokenized equities  
+- Building models to track VC impact on token price performance  
+- Designing frameworks for DAO treasury strategies and vesting flows
+
+---
+
+Thanks for stopping by! I'm always excited to connect with fellow builders, researchers, and curious minds.  
+If you’re working on something impactful in crypto, feel free to reach out:  
+📧 [markbenhaim0@gmail.com](mailto:markbenhaim0@gmail.com)
 
